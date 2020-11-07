@@ -1,4 +1,4 @@
-# DEMO CODE para Graphql
+# DEMO CODE para GraphQL
 
 El proyecto es un ejemplo del uso de GraphQL realizado para una charla 
 en el marco del SAMPI (Seminario Abierto por un Modelo Productivo Independiente) 
